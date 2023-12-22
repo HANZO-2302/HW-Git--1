@@ -1,10 +1,17 @@
 .idea
+<<<<<<< HEAD
 .idea/misc.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.classq
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+>>>>>>> a913d9364bda0540d3bd81da135885eab1300d03
 
 # C extensions
 *.so
@@ -160,4 +167,8 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+<<<<<<< HEAD
 #.idea/
+=======
+#.idea/
+>>>>>>> a913d9364bda0540d3bd81da135885eab1300d03
