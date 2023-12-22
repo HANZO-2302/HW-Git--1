@@ -10,4 +10,3 @@
 
 >>>>>>> parent of 3b10e65 (2 commit)
 
-# 1
